@@ -26,4 +26,5 @@ contains jupyter notebook for converting tensorflow keras to tflite model.
 
 # Thanks
 https://github.com/dog-qiuqiu/Yolo-Fastest
+
 https://github.com/AlexeyAB/darknet
