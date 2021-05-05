@@ -13,6 +13,10 @@ Watermelon
 
 Approximately 30,000 fruit images to train the model.
 
+# Cropping image
+contains code for cropping fruit images using object detection model.
+It can produce image dataset for classification model (one fruit per image)
+
 
 # 2Tensorflow
 contains code for converting darknet model to tensorflow keras.
